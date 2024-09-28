@@ -3,7 +3,8 @@ Causal Relation Extraction Dataset on Genes-Diseases based on biomedical literat
 
 We have organised this repository as: code, data, embeddings, intermediate results, pre_trained_models.
 
-The repo contains the scripts and data used in the paper : 
+The repo contains the code files and data used in the paper : https://www.biorxiv.org/content/10.1101/2024.09.17.613424v1
+
 The code folder contains :
 
 -> classification_code.ipynb: This file contains the code for generating the embeddings using BioBERT model and generating the predictions. This file imports interpretation_code.py and k_fold_cv.py
