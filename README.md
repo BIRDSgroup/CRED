@@ -45,13 +45,13 @@ After doing all the required installations, run classification_code.ipynb file. 
 # Reproduction of Results Tables and  Figures
 Table 2: Running table1_code.ipynb file
 
-Table 3: Running Inter_annotator_agreement.ipynb file
+Table 3: Run Inter_annotator_agreement.ipynb file
 
-Table 4: Running classification_code.ipynb
+Table 4: Run classification_code.ipynb
 
-Figure 4: Running cls_classification.ipynb
+Figure 4: Run cls_classification.ipynb
 
-Figure 5,6,7: Running interpretation_graph_new.ipynb
+Figure 5,6,7: Run interpretation_graph_new.ipynb
 
-Figure 8,9: Running CRED_application_code.ipynb
+Figure 8,9: Run CRED_application_code.ipynb
 
