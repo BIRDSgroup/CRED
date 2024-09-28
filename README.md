@@ -34,7 +34,7 @@ Intermediate results folder contains files used for generating various interpret
 Pre-trained models folder contains pre-trained SVM and XGBoost models trained on CRED and CDR data
 
 # Installation
-See requirements.txt file for the list of dependencies. All the code is written using python language
+See requirements.txt file (in the code folder) for the list of dependencies. All the code is written using python language
 
 # Getting started
 After doing all the required installations, run classification_code.ipynb file. It can generate embeddings and can also take input as pre-trained embeddings. It will generate the classification results.
