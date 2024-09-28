@@ -22,7 +22,7 @@ Intermediate results folder contains files used for generating various interpret
 
 Pre-trained models folder contains pre-trained SVM and XGBoost models trained on CRED and CDR data
 
-Reproduction of Results Tables and  Figures
+# Reproduction of Results Tables and  Figures
 Table 2: Running table1_code.ipynb file
 Table 3: Running Inter_annotator_agreement.ipynb file
 Table 4: Running classification_code.ipynb
