@@ -5,17 +5,27 @@ We have organised this repository as: code, data, embeddings, intermediate resul
 
 The repo contains the scripts and data used in the paper : 
 The code folder contains :
+
 -> classification_code.ipynb: This file contains the code for generating the embeddings using BioBERT model and generating the predictions. This file imports interpretation_code.py and k_fold_cv.py
+
 -> cls_classification.ipynb: This file contains the code for generating the CLS and CLS with G-D embeddings.
+
 -> data_augmentation.ipynb: This file contains the code for augmenting the data
+
 -> hyperparameter_tuning.ipynb: This file contains the code for tuning the hyper-parameters for all the models
+
 -> interpretation_code.py: This file contains the code for calculating interpretation score.
+
 -> k_fold_cv.py: This file contains the code for 4-cross validation.
 
 The data folder contains :
+
 -> new_train_data: training data (after augmentation)
+
 -> only_augmented_data: augmented abstracts
+
 -> test_data: test data
+
 -> val_data: validation data
 
 Intermediate results folder contains files used for generating various interpretation plots
@@ -24,9 +34,12 @@ Pre-trained models folder contains pre-trained SVM and XGBoost models trained on
 
 # Reproduction of Results Tables and  Figures
 Table 2: Running table1_code.ipynb file
+
 Table 3: Running Inter_annotator_agreement.ipynb file
+
 Table 4: Running classification_code.ipynb
 
 Figure 4: Running cls_classification.ipynb
+
 Figure 5,6,7: Running interpretation_graph_new.ipynb
 
