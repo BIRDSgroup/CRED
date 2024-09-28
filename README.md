@@ -18,6 +18,8 @@ The code folder contains :
 
 -> k_fold_cv.py: This file contains the code for 4-cross validation.
 
+-> CRED_application_code.ipynb: This file contains the code related to applications of CRED
+
 The data folder contains :
 
 -> new_train_data: training data (after augmentation)
@@ -49,4 +51,6 @@ Table 4: Running classification_code.ipynb
 Figure 4: Running cls_classification.ipynb
 
 Figure 5,6,7: Running interpretation_graph_new.ipynb
+
+Figure 8,9: Running CRED_application_code.ipynb
 
