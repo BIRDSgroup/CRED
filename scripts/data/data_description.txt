@@ -1,1 +1,8 @@
-
+Data (train, val, test) contains following coolumns:
+index: It contains PubMed ID (PMID) of the abstract	
+id1: It contains gene ID	
+id2: It contains disease ID
+is_in_same_sent: Tells if the gene and disease are in same sentence or not (Contains 1 0r 0)
+min_sents_window: It contains number of sentences bey\tween gene and disease
+sentence: It contains the text of abstract
+label: It contains the annotation of relation between gene and disease in the abstract (1 if causal and 0 if non-causal)
