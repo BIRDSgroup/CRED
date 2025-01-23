@@ -1,4 +1,4 @@
-Data (train, val, test) contains following coolumns:
+Data (train, val, test) contains following columns:
 index: It contains PubMed ID (PMID) of the abstract	
 id1: It contains gene ID	
 id2: It contains disease ID
