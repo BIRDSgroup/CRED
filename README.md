@@ -38,6 +38,8 @@ The intermediate results folder contains files (importance scores) used for gene
 
 Pre-trained models folder contains pre-trained SVM and XGBoost models trained on CRED and CDR data
 
+**supplementary_data** folder contains the test data analysis file 
+
 # Installation
 See requirements.txt file (in the code folder) for the list of dependencies. All the code is written using python language
 
