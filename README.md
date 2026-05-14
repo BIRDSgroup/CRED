@@ -40,6 +40,16 @@ Pre-trained models folder contains pre-trained SVM and XGBoost models trained on
 
 **supplementary_data** folder contains the test data analysis file 
 
+# License Preamble
+Copyright 2024 BIRDS Group, IIT Madras
+
+MultiPopPred is a free software: you can redistribute it and modify it under the terms of the GNU Lesser General Public License as published by the Free Software Foundation, either version 3 of the License, or (at your option) any later version.
+
+MultiPopPred is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. Please take a look at the GNU Lesser General Public License for more details.
+
+You should have received a copy of the GNU Lesser General Public License along with MultiPopPred. If not, see https://www.gnu.org/licenses/.
+
+
 # Installation
 See requirements.txt file (in the code folder) for the list of dependencies. All the code is written using python language
 
