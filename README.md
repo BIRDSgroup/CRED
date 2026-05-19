@@ -13,6 +13,8 @@ The code folder contains :
 
 -> data_augmentation.ipynb: This file contains the code for augmenting the data
 
+-> error_analysis.ipynb: This file contains the code for analyzing the errors and compare errors of CRED-trained SVM, MMedLlama-3, Phi-4
+
 -> hyperparameter_tuning.ipynb: This file contains the code for tuning the hyperparameters for all the models
 
 -> interpretation_code.py: This file contains the code for calculating the interpretation score.
@@ -32,6 +34,7 @@ The data folder contains :
 -> test_data: test data
 
 -> val_data: validation data
+
 All the annotations of the data are done by CRED developers, and all the abstracts are taken from Pubtator
 
 The intermediate results folder contains files (importance scores) used for generating various interpretation plots
