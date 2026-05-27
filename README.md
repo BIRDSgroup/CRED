@@ -56,7 +56,7 @@ You should have received a copy of the GNU Lesser General Public License along w
 # Installation
 See requirements.txt file (in the code folder) for the list of dependencies. All the code is written using python language
 
-# Getting started
+# Getting Started
 After doing all the required installations, run classification_code.ipynb file. It can generate embeddings and can also take input as pre-trained embeddings. It will generate the classification results.
 
 # Reproduction of Results Tables and  Figures
