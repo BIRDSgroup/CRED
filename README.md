@@ -3,7 +3,7 @@ Causal Relation Extraction Dataset on Genes-Diseases based on biomedical literat
 
 We have organised this repository as: code, data, embeddings, intermediate results, pre_trained_models.
 
-The repo contains the code files and data used in the paper: https://www.biorxiv.org/content/10.1101/2024.09.17.613424v1
+The repo contains the code files and data used in the bioRxiv preprint: https://doi.org/10.1101/2024.09.17.613424
 
 The code folder contains :
 
